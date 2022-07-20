@@ -29,7 +29,7 @@ Atualmente estou cursando desenvolvimento web na Trybe, com intuito de me tornar
 <!-- REDES SOCIAIS -->
 <div align="center">
   <!-- <a href="https://www.youtube.com/tecnologiaemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://daniloramalhosilva.github.io/" target="_blank"><img style="width: 95px; border-radius: 3px" src="./imag/portifolio.png"  target="_blank"></a>
+  <a href="https://daniloramalhosilva.github.io/" target="_blank"><img style="width: 95px; border-radius: 5px" src="./imag/portifolio.png"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-ramalho-silva-2740b415b/" target="_blank"><img style="width: 100px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=gus-caetano)
