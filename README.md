@@ -1,4 +1,4 @@
-##  Boas vindas ao meu perfil 😀
+##  Boas vindas ao meu perfil
 
 Meu nome é Danilo Ramalho e sou apaixonado por tecnologia, desenvolvimento pessoal e profissional, sempre em busca de novos desafios e realizações. 😎
 
@@ -9,8 +9,7 @@ Atualmente estou cursando desenvolvimento web na Trybe, com intuito de me tornar
 
 <div align="center">
   <h2>Languages and Tools</h2>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="./imag/css3-original-wordmark.svg" width="40" height="40" />           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -30,7 +29,6 @@ Atualmente estou cursando desenvolvimento web na Trybe, com intuito de me tornar
 
 <div align="center">
 <h2>Status do GitHub</h2>
-<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloRamalhoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRamalhoSilva&layout=compact&langs_count=10&theme=dark"/>  
 </div>
