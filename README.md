@@ -30,7 +30,7 @@ Atualmente estou cursando desenvolvimento web na Trybe, com intuito de me tornar
 <div align="center">
 <h2>Status do GitHub</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloRamalhoSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRamalhoSilva&layout=compact&langs_count=10&theme=dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRamalhoSilva&layout=compact&langs_count=10&theme=dark"/>    E-mail: daniloti@hotmail.com
 </div>
 
 <br>
