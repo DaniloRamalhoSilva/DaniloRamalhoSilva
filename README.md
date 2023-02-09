@@ -36,12 +36,11 @@ Atualmente estou cursando desenvolvimento web na Trybe, com intuito de me tornar
 <br>
 <br>
 
-<div align="center">
-  <a href="https://daniloramalhosilva.github.io/" target="_blank"><img style="width: 95px; border-radius: 3px" src="./imag/portifolio.png"  target="_blank"></a>
+<div align="center">  
   <a href="https://www.linkedin.com/in/danilo-ramalho-silva-2740b415b/" target="_blank"><img style="width: 100px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <div align="center">   
-  <b>E-mail:</b> <a href="daniloti@hotmail.com">daniloti@hotmail.com</a>
+  <b>E-mail:</b> <a href="https://outlook.live.com">daniloti@hotmail.com</a>
 </div>
 
 <br>
